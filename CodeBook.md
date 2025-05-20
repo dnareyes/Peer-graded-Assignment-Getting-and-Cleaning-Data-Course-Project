@@ -19,7 +19,6 @@ Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR
 
 3. **Data Extraction**
    - Extracted only measurements related to mean and standard deviation
-   - Identified these measurements using regex pattern matching
 
 4. **Data Labeling**
    - Converted activity codes to descriptive activity names
